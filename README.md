@@ -1,0 +1,1 @@
+# Xware1.0.31_armel_v5te_glibc
